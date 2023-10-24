@@ -10,12 +10,12 @@ import { Link } from 'react-router-dom'
 const Home = () => {
     return (
         <>
-            <div>Home</div>
             <div className='row'>
 
 
                 <div className="col-sm-6 bg text-light ">
                     <div className=' bg '>
+
                         <div className='Mcontent'>
 
                             <h2>ABC 456</h2>

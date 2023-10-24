@@ -5,7 +5,6 @@ import nasa_fitness_tracking_mobile_app from "./../assets/img/nasa_fitness_track
 const FirstPage = () => {
     return (
         <>
-            <div>FirstPage</div>
 
             <div className="row">
                 <div className="col-sm-6 bg-color ">

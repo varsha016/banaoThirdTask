@@ -5,7 +5,6 @@ import erp_app_development_service from "../assets/img/erp_app_development_servi
 
 const FivePage = () => {
     return (<>
-        <div>FivePage</div>
         <div className="row">
             <div className="col-sm-6 bgF ">
                 <div className='bg1F'>

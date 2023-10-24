@@ -7,7 +7,6 @@ import "../css/fourPage.css"
 const FourPage = () => {
     return (<>
 
-        <div>FourPage</div>
         <div className="row">
             <div className="col-sm-6 bgSx ">
                 <div className='bg1Sx'>

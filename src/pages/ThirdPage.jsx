@@ -7,7 +7,6 @@ import nexgtv_entertainment_mobile_app_development from "../assets/img/nexgtv_en
 const ThirdPage = () => {
     return (<>
 
-        <div>ThirdPage</div>
         <div className="row">
             <div className="col-sm-6 bgT ">
                 <div className='bg1T'>

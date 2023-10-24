@@ -7,7 +7,6 @@ import veme_app_ui_design from "../assets/img/veme_app_ui_design.png"
 const SecondPage = () => {
     return (<>
 
-        <div>SecondPage</div>
         <div className="row">
             <div className="col-sm-6 bgS ">
                 <div className='bg1S'>
