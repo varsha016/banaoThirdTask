@@ -1,0 +1,26 @@
+.bg-color{color: silver;
+    background-color: rgb(2, 2, 38);
+    /* margin-top: 90%;
+    padding: 8%; */
+}
+.bg1-color{color: silver;
+    background-color: rgb(2, 2, 38);
+    margin-top: 150%;
+    padding: 8%;
+}
+.bg2-color{
+    background-color: rgb(31, 32, 72);
+    
+}
+.img-content{
+    display: flex;
+    justify-content: end;
+    height: 600px;
+    
+}
+.img1-content{
+    display: flex;
+    justify-content:start;
+    height: 600px;
+    
+}

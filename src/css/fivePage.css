@@ -1,0 +1,22 @@
+.bgImgF{
+    background-image: url("https://thearchitectsdiary.com/wp-content/uploads/2017/08/Outhouse-with-green-terrace-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: ; */
+    z-index: 9;
+}
+.bgF{
+    color: silver;
+    background-color:rgb(7, 9, 101);
+    /* margin-top: 90%;
+    padding: 8%; */
+}
+.bg1F{color: silver;
+    background-color: rgb(7, 9, 101);
+    margin-top: 100%;
+    padding: 8%;
+}
+/* .bg2F{
+    background-color: rgb(7, 9, 101);
+    
+} */

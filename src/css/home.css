@@ -1,0 +1,55 @@
+
+.bg{
+    background-color: rgb(1, 33, 56);
+    
+}
+.bg2{
+    
+    background-color: rgb(2, 16, 26);
+    /* margin-top: 40%; */
+    
+   
+
+}
+
+.bg1{   
+    background-color: rgb(14, 14, 14);
+    
+}
+
+.dominos_bread{
+    margin-right: 80px;
+   height: 90px;
+   width: 70px;
+}
+.pizza_box{
+    height: 100px;
+    width: 90px;
+}
+.Mcontent{
+    margin-top: 90%;
+    padding: 8%;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  padding-left: 400px;
+ 
+}
+ 
+.dominos_bread1{
+    margin-top: 270px !important;
+    
+    
+
+   
+}  
+.domi_img1{
+    margin-top: 40px !important;
+  
+
+   
+}  
