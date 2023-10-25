@@ -7,7 +7,7 @@ const FirstPage = () => {
         <>
 
             <div className="row">
-                <div className="col-sm-6 bg-color ">
+                <div className=" col-sm-6 bg-color ">
                     <div className='bg1-color'>
 
                         <h2>ABC 345</h2>

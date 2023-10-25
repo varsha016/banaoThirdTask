@@ -7,9 +7,10 @@ import "../css/fourPage.css"
 const FourPage = () => {
     return (<>
 
+
         <div className="row">
-            <div className="col-sm-6 bgSx ">
-                <div className='bg1Sx'>
+            <div className="col-sm-6 bgFour ">
+                <div className='bg1Four'>
                     <img src={mobile_app_of_the_year_by_entrepreneur} alt="" data-aos="zoom-in-up" className='img-fluid' width={150} />
 
                     <h2>ABC 234</h2>
@@ -25,15 +26,15 @@ const FourPage = () => {
                 </div>
 
             </div>
-            <div className="col-sm-6 bg2Sx d-flex">
+            <div className="col-sm-6 bg2Four d-flex">
 
 
-                <div className='imgSx ' data-aos="zoom-out-down" >
+                <div className='imgFour ' data-aos="zoom-out-down" >
 
                     <img src={melltoo_img2} alt="" className='img-fluid' />
                 </div>
 
-                <div className='img1Sx ' data-aos="zoom-out-up" >
+                <div className='img1Four ' data-aos="zoom-out-up" >
                     <img src={melltoo_img1} alt="" className='img-fluid' />
 
                 </div>

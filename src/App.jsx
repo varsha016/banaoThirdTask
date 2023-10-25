@@ -25,15 +25,15 @@ const App = () => {
   return (
     <>
       <BrowserRouter>
-        <div style={{ position: "absolute" }}>
-
-          <FixedSvg />
-        </div>
+        {/* <div >
+        </div> */}
 
 
-        <div style={{ position: "relative", }}>
+        {/* <div style={{ position: "absolute" }}> */}
+        {/* <FixedSvg /> */}
+        {/* <div style={{ position: "relative", }}> */}
+        <div>
           <MainPage />
-
         </div>
 
 
