@@ -22,8 +22,8 @@ const FivePage = () => {
                 </div>
 
             </div>
-            <div className="col-sm-6 bgImgF">
-                <div data-aos="zoom-in" style={{ marginTop: "100px" }}>
+            <div className="col-sm-6 bgImgF" >
+                <div data-aos="zoom-in" style={{ marginTop: "100px", }}>
 
                     <img src={erp_app_development_service} alt="" className='img-fluid' />
                 </div>

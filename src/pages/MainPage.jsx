@@ -13,7 +13,7 @@ import FixedSvg from '../components/FixedSvg'
 const MainPage = () => {
     return (
         <>
-            <div style={{ position: "absolute", left: "550px" }}>
+            <div className='FixedSvg'>
                 <FixedSvg />
             </div>
 

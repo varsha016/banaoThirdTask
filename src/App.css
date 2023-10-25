@@ -1,9 +1,24 @@
-.center-fixed-svg {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-  }
+
+  .FixedSvg {
+    position: absolute;
+    left: 550px;
+}
+
+
+@media (max-width: 1024px) {
+    .FixedSvg {
+        left: 10px; 
+    }
+}
+
+
+@media (max-width: 768px) {
+    .FixedSvg {
+        left: 5px; 
+    }
+}
+
+
 
 
  

@@ -1,8 +1,7 @@
 .bgS{
     color: silver;
     background-color:rgb(96, 96, 248) ;
-    /* margin-top: 90%;
-    padding: 8%; */
+    
 }
 .bg1S{color: silver;
     background-color: rgb(96, 96, 248);
@@ -17,7 +16,7 @@
     display: flex;
     justify-content: end;
     height: 500px;
-    /* width: 250px; */
+
 }
 .img1S{
     display: flex;

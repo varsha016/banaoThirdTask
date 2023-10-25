@@ -68,14 +68,10 @@ const mdScreenMediaQuery = '@media (min-width: 768px)';
 
 
 
-
 const FixedSvg = () => {
+    // const rgb = rgb(1, 33, 56)
     return (
-        // <div className="row">
-        //     <div className="col-sm-5"></div>
-        //     <div className="col-sm-2"></div>
-        //     <div className="col-sm-5"></div>
-        // </div>
+
         <div
             style={{
                 position: 'relative',
@@ -92,7 +88,8 @@ const FixedSvg = () => {
                     width: '200px',
                     height: '200px',
                     borderRadius: '50%',
-                    backgroundColor: 'transparent',
+                    // backgroundColor: 'transparent',
+                    backgroundColor: 'rgb(1, 33, 56)',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',

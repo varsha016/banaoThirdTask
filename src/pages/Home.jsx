@@ -15,8 +15,14 @@ const Home = () => {
 
                 <div className="col-sm-6 bg text-light ">
                     <div className=' bg '>
+                        {/* <div className='data'>
+                            <p style={{ marginLeft: "90px" }}>Redefining</p>
+                            <h3 className='text-center ' style={{ marginLeft: "100px" }} >UX Strategy</h3>
+                            <p className='text-end' style={{ marginRight: "20px", }}>and UI Design</p>
+                        </div> */}
 
                         <div className='Mcontent'>
+
 
                             <h2>ABC 456</h2>
                             <p>WE ARE THE BEST</p>
